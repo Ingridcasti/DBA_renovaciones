@@ -1,0 +1,18 @@
+USE renovaciones;
+
+DROP TABLE IF EXISTS DocumentacionContratos;
+DROP TABLE IF EXISTS PerfilesUsuario;
+
+DROP TABLE IF EXISTS DatosPersona;
+DROP TABLE IF EXISTS Roles;
+
+DROP TABLE IF EXISTS TipoDocumentos;
+
+DROP TABLE IF EXISTS Contratos;
+DROP TABLE IF EXISTS Estado;
+
+DROP TABLE IF EXISTS Clientes;
+
+DROP TABLE IF EXISTS Contactos;
+DROP TABLE IF EXISTS Paises;
+DROP TABLE IF EXISTS TipoEmpresa;
